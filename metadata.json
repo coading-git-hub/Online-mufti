@@ -1,0 +1,8 @@
+{
+  "name": "Ask Mufti - Islamic Sharia Guide",
+  "description": "An AI-powered Sharia consultant based on Fatawa-e-Razawiyyah and Bahar-e-Shariat, providing expert Islamic guidance in multiple languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": [
+    "Gemini AI"
+  ]
+}
